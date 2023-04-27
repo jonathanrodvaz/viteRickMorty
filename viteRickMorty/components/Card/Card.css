@@ -1,0 +1,44 @@
+h2{
+    color: rgb(7, 172, 255);
+    padding: 1.5rem;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    text-decoration:overline underline;
+    
+}
+
+h3{
+    color: rgb(3, 134, 199);
+    padding: 0.1rem;
+    
+} 
+h4{
+    color:rgb(175, 128, 166);
+    font-family: 'Quicksand', sans-serif;
+    
+}
+h5{
+        
+    color: #45d540; 
+    animation: compu 3s infinite;
+    font-family: 'Instrument Serif', serif;
+    font-size:large;
+    
+} 
+
+
+ @keyframes compu {
+    0%{
+        opacity: 0.3;
+    }
+    50%{
+        opacity: 1.5;
+    }
+    100%{
+        opacity: 0.3;
+    }
+}
+    
+
+
